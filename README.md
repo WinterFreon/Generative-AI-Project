@@ -1,4 +1,4 @@
-# Generative-AI-Project-1
+# Generative-AI-Project
 
 As part of the project, we aim to evaluate and improve these models systematically by establishing the baseline performance using basic prompts, enhancing generation quality through advanced prompting techniques, and fine-tuning the models to further improve their performance. REMARK: The course project draws inspiration from a recent paper. https://openreview.net/pdf?id=JRMSC08gSF
 
