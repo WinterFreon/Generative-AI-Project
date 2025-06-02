@@ -17,6 +17,7 @@ The evaluation_data/ directory provides the detailed evaluation setup for each p
 
 Remember to change the «OPENAI_API_KEY_FILE» placeholder in project_part1_repair.py and project_part1_hint.py with its actual name.
 
+## References
 [1] Nachiket Kotalwar, Alkis Gotovos, and Adish Singla. Hints-In-Browser: Benchmarking Lan-
 guage Models for Programming Feedback Generation. In NeurIPS (Datasets and Benchmarks
 Track), 2024. Paper link: https://openreview.net/pdf?id=JRMSC08gSF
