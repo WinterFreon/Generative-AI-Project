@@ -2,7 +2,7 @@
 
 As part of the project, we aim to evaluate and improve these models systematically by establishing the baseline performance using basic prompts, enhancing generation quality through advanced prompting techniques, and fine-tuning the models to further improve their performance. REMARK: The course project draws inspiration from a recent paper. https://openreview.net/pdf?id=JRMSC08gSF
 
-The first part of the project focuses on evaluating the baseline models and exploring prompt engineering techniques for program repair and hint generation. You will use the provided datasets and scripts to analyze the performance of models such as **GPT-4o-mini** and **Phi-3-mini**. We will explore advanced prompting techniques to improve the generation quality.
+The first part of the project focuses on evaluating the baseline models and exploring prompt engineering techniques for program repair and hint generation. Will use the provided datasets and scripts to analyze the performance of models such as **GPT-4o-mini** and **Phi-3-mini**. Explore advanced prompting techniques to improve the generation quality.
 
 ## Provided Datasets and Scripts
 
