@@ -2,9 +2,9 @@ import os
 import json
 from datetime import datetime
 
-import project_part1_utils as utils
-import project_part1_repair as repair
-import project_part1_hint as hint
+import utils_ as utils
+import repair_ as repair
+import hint_ as hint
 
 # Class for evaluating program repairs and generating hints
 # You do not need to change this class
