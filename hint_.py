@@ -1,6 +1,6 @@
 import openai
-import project_part1_prompts as prompts
-import project_part1_utils as utils
+import prompts_ as prompts
+import utils_ as utils
 
 import os
 import json
